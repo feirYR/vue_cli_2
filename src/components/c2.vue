@@ -6,7 +6,7 @@
       <span>S:{{$store.state.name}}</span><br>
         <span>g:{{$store.getters.new_name}}</span>
         <span>br1修改 远程仓库修该</span>
-    </div>
+    </div>cd
 </template>
 
 <script>
