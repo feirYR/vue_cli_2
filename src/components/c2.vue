@@ -5,6 +5,7 @@
       <span>{{$route.params.name}},{{$route.params.id}}</span><br>
       <span>S:{{$store.state.name}}</span><br>
         <span>g:{{$store.getters.new_name}}</span>
+        <span>br1修改</span>
     </div>
 </template>
 
